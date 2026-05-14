@@ -48,7 +48,7 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 -->
 ### 📫 Let's Connect
 <p align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:hasbie.assyattar@studemt.upi.edu" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/HasbieAssyattar" target="_blank">
