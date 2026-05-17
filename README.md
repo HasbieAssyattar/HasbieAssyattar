@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Computer Science Student** based in Indonesia with a passion for building functional and aesthetic digital solutions. I specialize in software development and graphic design, often blending both through a **"Vibecoding"** workflow—leveraging AI tools to accelerate the building process.
+I'm a **Computer Science Student** based in Indonesia with a passion for building functional and aesthetic digital solutions. I specialize in software development and graphic design, focusing on creating efficient code paired with clean, intuitive visuals.
 
 - 💻 **Programmer:** Proficient in C/C++, PHP, and SQL. Currently exploring Python for automation.
 - 🎨 **Graphic Designer:** Experienced in creating brand identities and media assets using Figma and Adobe Illustrator.
@@ -33,7 +33,7 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 ---
 
 ### 🔭 Projects in Progress
-*Coming soon... currently vibecoding something awesome.*
+*Coming soon... currently working on some exciting new projects.*
 
 ---
 
@@ -48,7 +48,7 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 -->
 ### 📫 Let's Connect
 <p align="left">
-  <a href="mailto:hasbie.assyattar@studemt.upi.edu" target="_blank">
+  <a href="mailto:hasbie.assyattar@student.upi.edu" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/HasbieAssyattar" target="_blank">
