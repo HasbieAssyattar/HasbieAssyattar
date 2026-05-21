@@ -37,7 +37,7 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/HasbieAssyattar/github-readme-stats">
     <img src="https://github-readme-stats-sigma.vercel.app/api?username=HasbieAssyattar&show_icons=true&theme=tokyonight" alt="Hasbie's Stats" />
@@ -47,7 +47,7 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 </p>
 
 ---
-
+-->
 ### 📫 Let's Connect
 <p align="left">
   <a href="mailto:hasbie.assyattar@student.upi.edu" target="_blank">
