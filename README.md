@@ -37,15 +37,15 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 
 ---
 
-<!--### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasbieAssyattar&show_icons=true&theme=tokyonight" alt="Hasbie's Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasbieAssyattar&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </p>
 
 ---
--->
+
 ### 📫 Let's Connect
 <p align="left">
   <a href="mailto:hasbie.assyattar@student.upi.edu" target="_blank">
