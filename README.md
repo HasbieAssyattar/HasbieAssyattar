@@ -24,12 +24,12 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 <div align="center">
   <img src="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/stats-output/stats.svg" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/languages-output/languages.svg" height="150" alt="languages graph" />
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/pacman-output/pacman-contribution-graph.svg">
-  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HasbieAssyattar/HasbieAssyattar/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -41,10 +41,18 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
 
 ### 📫 Let's Connect
 <div align="center">
-  <a href="mailto:hasbie.assyattar@student.upi.edu"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="27" /></a>
-  <a href="https://www.linkedin.com/in/hasbie-assyattar/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="27" /></a>
-  <a href="https://www.hackerrank.com/profile/hasbie_assyattar"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="27" /></a>
-  <a href="https://www.instagram.com/hasbieaassyattar/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="27" /></a>
+  <a href="mailto:hasbie.assyattar@student.upi.edu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="27" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasbie-assyattar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="27" alt="linkedin logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hasbie_assyattar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="27" alt="hackerrank logo" />
+  </a>
+  <a href="https://www.instagram.com/hasbieaassyattar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="27" alt="instagram logo" />
+  </a>
 </div>
 
 <br>
