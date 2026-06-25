@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=40&text=Welcome%20to%20My%20Space&fontColor=FFFFFF&theme=cobalt" />
-</div>
-
 # Wsp, About Me 👋
 
 I'm a **Computer Science Student** based in Indonesia with a passion for building functional and aesthetic digital solutions. I specialize in software development and graphic design, focusing on creating efficient code paired with clean, intuitive visuals.
@@ -53,14 +49,4 @@ I'm a **Computer Science Student** based in Indonesia with a passion for buildin
   <a href="https://www.instagram.com/hasbieaassyattar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="27" alt="instagram logo" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HasbieAssyattar.HasbieAssyattar" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />
 </div>
