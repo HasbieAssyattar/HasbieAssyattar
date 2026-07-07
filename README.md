@@ -34,7 +34,15 @@ interests:
   - Software Development
   - UI/UX Design
   - Game Development
-  - Brand Identity Design
+  - Branding & Identity Design
+  - Organization & Committees
+  - Event Management
+  - Medical & Humanitarian Services
+  - Self-Development & Leadership
+  - Mass Communication Management
+  - Event Concept Planning
+  - Public Speaking
+  - Social & Humanitarian Activities
 
 fun_fact: "I design pixels by day and debug semicolons by night 🌙"
 ```
