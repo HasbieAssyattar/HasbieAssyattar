@@ -26,7 +26,7 @@ location: Bandung, Indonesia 🇮🇩
 education: Computer Science Student
 role: Student Developer & UI/UX Designer
 
-currently_learning: ["C", "C++", "Python", "PHP", "Java", "HTML", "SQL"]
+currently_learning: ["C", "C++", "Python", "PHP", "Java", "JavaScript", "HTML", "SQL"]
 design_tools: ["Figma", "Adobe Illustrator"]
 code_editor: "Visual Studio Code"
 
@@ -34,17 +34,7 @@ interests:
   - Software Development
   - UI/UX Design
   - Game Development
-  - Branding & Identity Design
-  - Organization & Committees
-  - Event Management
-  - Medical & Humanitarian Services
-  - Self-Development & Leadership
-  - Mass Communication Management
-  - Event Concept Planning
-  - Public Speaking
-  - Social & Humanitarian Activities
-
-fun_fact: "I design pixels by day and debug semicolons by night 🌙"
+  - Building Independent Collectives, Brands & Services
 ```
 
 ---
@@ -60,6 +50,7 @@ fun_fact: "I design pixels by day and debug semicolons by night 🌙"
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -81,7 +72,7 @@ fun_fact: "I design pixels by day and debug semicolons by night 🌙"
 
 ### 📊 &nbsp;Skill Icons
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,java,html,css,mysql,figma,illustrator,vscode,git,github&perline=7" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,java,js,html,css,mysql,figma,illustrator,vscode,git,github&perline=7" alt="skill icons"/>
 </p>
 
 </div>
